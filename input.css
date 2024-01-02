@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.bg {
+    background-image: linear-gradient(to bottom, rgba(11, 7, 7, 0), rgba(5, 4, 4, 0.5)), url("https://radiant.tailus.io/images/woman-in-dark.webp");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
+
+
+body{
+    background-color: black;
+   
+}
